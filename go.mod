@@ -1,6 +1,6 @@
-module github.com/morkid/paginate
+module github.com/supergoudvis116/paginate
 
-go 1.15
+go 1.20
 
 require (
 	github.com/iancoleman/strcase v0.1.3
